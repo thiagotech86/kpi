@@ -1,4 +1,11 @@
 body {
     background-color: #232323;
     color: #fff;
+
+    
+}
+.contact-form > * {
+    display: block;
+    font-size: 1rem;
+    margin-bottom: .5rem;
 }
